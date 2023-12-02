@@ -8,7 +8,7 @@ Welcome to my Android Portfolio App! This open-source project showcases my profe
 
 ## Features
 
-- **Personalized Portfolio:** Craft a unique and personalized portfolio that reflects your skills, experiences, and projects.
+- **Personalized Portfolio:** Personal portfolio showcasing my skills, experience, and projects.
 <!--
 - **Interactive Design:** Engage users with an interactive and user-friendly design, ensuring a memorable experience.
 - **Dynamic Content:** Easily update and manage your portfolio content through customizable sections for education, work experience, skills, projects, and more.
